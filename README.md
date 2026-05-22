@@ -1,6 +1,6 @@
 ### Hi there! I'm Ethan Dong 👋
 
-A Computer Science student and cybersecurity enthusiast based in Tianjin. 
+A Computer Science student and cybersecurity enthusiast.
 I am passionate about building efficient software, diving deep into vulnerability research, 
 and exploring the possibilities of low-level systems.
 
