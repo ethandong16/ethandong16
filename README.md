@@ -38,8 +38,6 @@ I build practical software at the intersection of **systems programming, cyberse
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ethandong16&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ethan's GitHub statistics">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethandong16&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Ethan's top languages">
 
 </div>
 
