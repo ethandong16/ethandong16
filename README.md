@@ -1,17 +1,60 @@
-### Hi there! I'm Ethan Dong 👋
+<div align="center">
 
-A Computer Science student and cybersecurity enthusiast.
-I am passionate about building efficient software, diving deep into vulnerability research, 
-and exploring the possibilities of low-level systems.
+# Hi, I'm Ethan Dong 👋
 
-**Tech Stack:**
-*   **Languages:** Python, Go, C/C++, JavaScript
-*   **Specialties:** Cybersecurity (CTF), System Automation, GUI Development
-*   **Environment:** Linux (Arch/Debian), Containerization (Docker)
+### Computer Science Student · Cybersecurity Enthusiast · Systems Builder
 
-**Currently working on:**
-*   Developing a "Dual-modal Continuous Space Localization Method" (IEEE research).
-*   Fine-tuning my skills for competitive CTF challenges.
-*   Building robust automation tools and system services.
+<p>
+  <a href="https://github.com/ethandong16"><img src="https://img.shields.io/github/followers/ethandong16?label=Followers&style=flat-square" alt="GitHub followers"></a>
+  <a href="https://github.com/ethandong16?tab=repositories"><img src="https://img.shields.io/badge/Open_Source_Projects-Active-181717?style=flat-square&logo=github" alt="Open source projects"></a>
+  <a href="mailto:yimingdong16@gmail.com"><img src="https://img.shields.io/badge/Email-yimingdong16%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-📫 How to reach me: yimingdong16@gmail.com
+</div>
+
+## About me
+
+I build practical software at the intersection of **systems programming, cybersecurity, automation, and developer tools**. I enjoy understanding how systems work from the inside, turning that understanding into reliable tools, and exploring low-level behavior through research and hands-on experimentation.
+
+- Computer Science student
+- Interested in vulnerability research, CTFs, and security engineering
+- Exploring low-level systems, Linux, embedded platforms, and networking
+- Building automation tools, system utilities, and data-driven web applications
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,js,html,css,linux,docker,git" alt="Technology stack">
+</p>
+
+
+## What I'm working on
+
+- Improving my systems and security engineering fundamentals
+- Building reliable cross-platform automation utilities
+- Learning more about kernel, modem, and embedded Linux internals
+
+## GitHub activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ethandong16&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ethan's GitHub statistics">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethandong16&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Ethan's top languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethandong16&hide_border=true&theme=transparent" alt="Ethan's GitHub streak">
+
+</div>
+
+## Connect
+
+- Email: [yimingdong16@gmail.com](mailto:yimingdong16@gmail.com)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ethandong16&style=flat-square&color=blue" alt="Profile views">
+
+</div>
